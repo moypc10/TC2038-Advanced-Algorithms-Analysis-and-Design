@@ -1,5 +1,7 @@
 # TC2038-Advanced-Algorithms-Analysis-and-Design
 
+Welcome to this repository where a variety of advanced algorithms have been explored and implemented to tackle a range of exercises. The collection includes algorithms such as Divide and Conquer, Greedy Algorithms, Dynamic Programming, Hashing, Palindrome Search, Trie Implementation, Graph Applications, Elements of Computational Geometry, Geometric Search, and problems related to search and local search. Explore the solutions and implementations to gain insights into the world of advanced algorithms.
+
 ---
 
 ## Activity 1: Divide and Conquer & Greedy Algorithms
